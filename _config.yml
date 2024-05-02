@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Manglik lab @ UCSF
-email: aashish.manglik@ucsf.edu
-description: Researching the molecular basis of transmembrane signaling and transport
+title: Jin Lab @ UCalgary
+email: xiaofan.jin@ucalgary.ca
+description: Lab website for Jin Lab in the Department of Biomedical Engineering at the University of Calgary
 twitter_username: username
-github_username: username
+github_username: thejinlab
 minimal_mistakes_skin: default
 search: true
 
@@ -59,7 +59,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mangliklab/"
+      url: "https://github.com/thejinlab/"
 
 defaults:
   # _posts
