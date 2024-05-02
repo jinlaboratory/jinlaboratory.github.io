@@ -1,6 +1,6 @@
 Getting started
 ===============
-
+This code was forked from mangliklab/mangliklab.github.io
  1. Install all [prerequisites](https://jekyllrb.com/docs/installation/)
  1. Install the jekyll and bundler gems
     ```
@@ -8,11 +8,11 @@ Getting started
     ```
  1. Clone this repository
     ```
-    git clone git@github.com:mangliklab/mangliklab.github.io.git
+    git clone git@github.com:thejinlab/thejinlab.github.io.git
     ```
  1. Change into your new directory
     ```
-    cd mangliklab.github.io
+    cd thejinlab.github.io
     ```
  1. Build the site and make it available on a local server
     ```
