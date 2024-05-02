@@ -64,8 +64,4 @@ Next: {{ member.next }}
 
 # Joining
 
-We are actively recruiting highly motivated graduate students and postdoctoral fellows interested in problems at the intersection of transmembrane signaling, protein biophysics, and human disease.
-
-Interested graduate students should apply to one of the UCSF graduate programs.
-
-Postdoctoral fellows should contact Aashish directly with a CV, research proposal, and three references.
+The Jin Lab is recruiting students interested in problems at the intersection of synthetic biology, computational biology, and microbiome research. Please contact Xiaofan directly by email.
