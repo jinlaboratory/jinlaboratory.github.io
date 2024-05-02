@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jin Lab @ UCalgary
+repository: thejinlab/thejinlab.github.io
 email: xiaofan.jin@ucalgary.ca
 description: Lab website for Jin Lab in the Department of Biomedical Engineering at the University of Calgary
 twitter_username: username
