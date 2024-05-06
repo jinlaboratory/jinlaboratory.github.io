@@ -2,6 +2,10 @@
 title: Members
 permalink: /members/
 layout: single
+header:
+  overlay_image: /assets/images/ucalgary.png
+  overlay_filter: .5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: University of Calgary"
 ---
 
 {% for author in site.data.authors %}
@@ -42,7 +46,7 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
 {% endfor %}
 
 
-# Former members
+<!--- # Former members -->
 
 
 {% for author in site.data.authors %}

@@ -17,15 +17,16 @@ title: Jin Lab @ UCalgary
 repository: thejinlab/thejinlab.github.io
 email: xiaofan.jin@ucalgary.ca
 description: Lab website for Jin Lab in the Department of Biomedical Engineering at the University of Calgary
-twitter_username: username
+# twitter_username: username
 github_username: thejinlab
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "default","plum", "sunrise"
 search: true
+logo: "/assets/images/logo_transparent.png"
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "default","plum", "sunrise"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -56,11 +57,14 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/thejinlab/"
+# footer:
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/thejinlab/"
+#     - label: "University of Calgary"
+#       icon: "/assets/images/ucalgarylogovert.png"
+#       url: "https://ucalgary.ca"
 
 defaults:
   # _posts
@@ -70,10 +74,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
@@ -91,3 +95,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+atom_feed:
+  hide: true
