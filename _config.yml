@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jin Lab @ UCalgary
-repository: thejinlab/thejinlab.github.io
+repository: jinlaboratory/jinlaboratory.github.io
 email: xiaofan.jin@ucalgary.ca
 description: Lab website for Jin Lab in the Department of Biomedical Engineering at the University of Calgary
 # twitter_username: username
-github_username: thejinlab
+github_username: jinlaboratory
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "default","plum", "sunrise"
 search: true
 logo: "/assets/images/logo_transparent.png"
@@ -61,7 +61,7 @@ plugins:
 #   links:
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/thejinlab/"
+#       url: "https://github.com/jinlaboratory/"
 #     - label: "University of Calgary"
 #       icon: "/assets/images/ucalgarylogovert.png"
 #       url: "https://ucalgary.ca"
