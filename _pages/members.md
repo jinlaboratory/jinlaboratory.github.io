@@ -66,6 +66,3 @@ Next: {{ member.next }}
 {% endif %}
 {% endfor %}
 
-# Joining
-
-The Jin Lab is recruiting students interested in problems at the intersection of synthetic biology, computational biology, and microbiome research. Please contact Xiaofan directly by email.
