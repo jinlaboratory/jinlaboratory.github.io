@@ -1,7 +1,7 @@
 ---
 title: Hello world
 layout: single
-author: jin-xiaofan
+author: hwang-ayden
 excerpt: Jin Lab starts at UCalgary BME!
 
 ---
