@@ -1,20 +1,17 @@
 ---
-title: Getting Started in the Jin Lab 
+title: Getting Started in the Jin Lab and learning about DNA Inversions
 layout: single
 author: hwang-ayden
-excerpt: Ayden's HYRS Lab Experience! 
+excerpt: Ayden's HYRS Experience and Genome Inversions!
 
 ---
 
-This summer, as a part of the 2024 Alberta Innovates HYRS (High School Youth Researcher Summer) Program, I was placed in the Jin Lab, getting to immerse myself into the intricate world of research at CCIT for two months. 
+Like how we can flip the word “melon” into “lemon,” bacterial genomes can undergo the same process with their GCA and Ts! In DNA, these regions are known as invertons, and recombinase enzymes bind to the DNA and flip the inverton. However, these enzymes do not bind and flip the inverton itself; conversely, recombinases bind to regions known as invertons that flank the inverton. These inverted repeats are flipped in a way that is similar to flipping the word “radar” to “radar.” In other words, inverted repeats remain the same while invertons flip and change, and ultimately, this flipping of the inverton regulates gene expression, turning a melon into a lemon. 
 
-For my experience, I delved into the inner workings on bacterial genomes and their adaptive mechanisms. 
+My lab experience
 
-Preprogrammed phase variation can occur through DNA inversions. Recombinase enzymes bind to regions that intervene the inverton, known as inverted repeats. The intervening region (the inverton) could be regulatory elements such as promoters and enhancers. 
+I took genome data from a synthetic microbial community, hCom2, grown in an environment in and without the presence of streptomycin. With this data, I ran the sequenced reads through a bioinformatics workflow tool, PhaseFinderDC, which detected invertons and their respective counts. With the resulting data, I used statistical tests like Scipy Fisher’s exact test and MatPlotLib and Pandas to generate plots representing that streptomycin leads to inversions. Furthermore, by using IGV (Integrative Genomics Viewer), I noticed that besides these inventions were regulatory elements like recombinase,
 
-I investigated how regions in DNA, known as invertons, invert themselves in response to external stimuli and stress. 
-
-Specefically in our research, I took genome data from —— of bacteria grown in an environment in and without the presence of streptomycin. With this data, 
 
 
 
