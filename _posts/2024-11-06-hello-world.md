@@ -2,7 +2,7 @@
 title: Getting Start in the Jin Lab 
 layout: single
 author: hwang-ayden
-excerpt: Jin Lab starts at UCalgary BME!
+excerpt: Ayden's HYRS Lab Experience! 
 
 ---
 
