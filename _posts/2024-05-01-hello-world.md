@@ -2,7 +2,7 @@
 title: Hello world
 layout: single
 author: jin-xiaofan
-excerpt: Jin Lab starts at UCalgary BME!
+excerpt: Jin Lab starts at UCalgary BME!!!
 
 ---
 
