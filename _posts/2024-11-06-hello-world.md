@@ -1,5 +1,5 @@
 ---
-title: Getting Start in the Jin Lab 
+title: Getting Started in the Jin Lab 
 layout: single
 author: hwang-ayden
 excerpt: Ayden's HYRS Lab Experience! 
