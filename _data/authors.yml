@@ -34,3 +34,12 @@ hwang-ayden:
   member:   true
   current:  true
   email:    ayden.hwang@ucalgary.ca
+
+dickson-davis:
+  name:     Davis Dickson
+  bio:      Graduate student, Biomedical Engineering
+  fullbio:  "Davis is a Graduate student at the University of Calgary in the Department of Biomedical Engineering. He completed his Bachelor of Science with Honours in Biological Sciences at the University of Calgary where he enjoyed various topics including gut microbiome, synthetic biology, regenerative medicine, and physiology. He conducted his Honour's research project on the effects of a fibre intervention on knee health in rats exposed to a diet-induced obesity model. In his free time, Davis likes staying active, reading, and photography." 
+  avatar:   /assets/images/dickson-davis.jpg
+  member:   true
+  current:  true
+  email:    davis.dickson@ucalgary.ca
