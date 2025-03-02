@@ -1,5 +1,5 @@
 ---
-title: Getting Started in the Jin Lab and learning about DNA Inversions
+title: What are genome inversions?
 layout: single
 author: hwang-ayden
 excerpt: Ayden & Genome Inversions
