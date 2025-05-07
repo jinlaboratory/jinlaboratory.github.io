@@ -61,3 +61,12 @@ kokame-karna
     member: true
     current: true
     email: karna.kokame@ucalgary.ca
+
+# zareipour-ava:
+#  name:     Ava Zareipour
+#  bio:      Summer Research Student
+#  fullbio:  "Ava is a Summer Research Student entering her third year in the Biomedical Engineering Department at the University of Calgary. Her research interests focus on using regenerative medicine and synthetic biology to treat chronic illnesses. Ava is an avid reader in her free time and her favourite genre is epic fantasy—although she likes to read any genre as long as it is fictitious and completely unrealistic." 
+#  avatar:   /assets/images/last-first.jpg #square headshot, ~500px and <300 kB
+#  member:   true
+#  current:  true
+#  email:    ava.zareipour@ucalgary.ca 
