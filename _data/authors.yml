@@ -53,7 +53,7 @@ young-makayla:
   current:  true
   email:    makayla.young@ucalgary.ca
 
-kokame-karna
+kokame-karna:
   name: Karna Kokame
   bio: Summer Research Student
   fullbio: "Karna is a summer student joining through the BME Summer Studentship Program. She is entering her second year of Chemical Engineering at the University of Calgary. Her research interests include genetic engineering and the gut microbiome. Outside of academics, she loves practicing karate, baking, and spending time with friends."
@@ -62,14 +62,14 @@ kokame-karna
   current: true
   email: karna.kokame@ucalgary.ca
 
-# zareipour-ava:
-#  name:     Ava Zareipour
-#  bio:      Summer Research Student
-#  fullbio:  "Ava is a Summer Research Student entering her third year in the Biomedical Engineering Department at the University of Calgary. Her research interests focus on using regenerative medicine and synthetic biology to treat chronic illnesses. Ava is an avid reader in her free time and her favourite genre is epic fantasy—although she likes to read any genre as long as it is fictitious and completely unrealistic." 
-#  avatar:   /assets/images/last-first.jpg #square headshot, ~500px and <300 kB
-#  member:   true
-#  current:  true
-#  email:    ava.zareipour@ucalgary.ca 
+ zareipour-ava:
+  name:     Ava Zareipour
+  bio:      Summer Research Student
+  fullbio:  "Ava is a Summer Research Student entering her third year in the Biomedical Engineering Department at the University of Calgary. Her research interests focus on using regenerative medicine and synthetic biology to treat chronic illnesses. Ava is an avid reader in her free time and her favourite genre is epic fantasy—although she likes to read any genre as long as it is fictitious and completely unrealistic." 
+  avatar:   /assets/images/last-first.jpg #square headshot, ~500px and <300 kB
+  member:   true
+  current:  true
+  email:    ava.zareipour@ucalgary.ca 
 
 quo-amber:
   name:     Amber Quo
