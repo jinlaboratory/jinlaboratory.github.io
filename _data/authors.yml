@@ -63,13 +63,13 @@ kokame-karna:
   email:    karna.kokame@ucalgary.ca
 
  zareipour-ava:
-  name:     Ava Zareipour
+  name:     Karna Kokame
   bio:      Summer Research Student
-  fullbio:  "test" 
-  avatar:   /assets/images/zareipour-ava.jpg
+  fullbio:  "Karna is a summer student joining through the BME Summer Studentship Program. She is entering her second year of Chemical Engineering at the University of Calgary. Her research interests include genetic engineering and the gut microbiome. Outside of academics, she loves practicing karate, baking, and spending time with friends."
+  avatar:   /assets/images/kokame-karna.JPG
   member:   true
   current:  true
-  email:    ava.zareipour@ucalgary.ca
+  email:    karna.kokame@ucalgary.ca
 
 quo-amber:
   name:     Amber Quo
