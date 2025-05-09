@@ -70,3 +70,12 @@ kokame-karna
 #  member:   true
 #  current:  true
 #  email:    ava.zareipour@ucalgary.ca 
+
+quo-amber:
+  name:     Amber Quo
+  bio:      Biomedical Engineering Research Volunteer
+  fullbio:  "Amber is a 4th year Biomedical Engineering student at the University of Calgary. Her research interests focus on synthetic biology and the development of biosensors for medical applications, with additional enthusiasm for programming and exploring the intersection of science and athletics. In her free time, she loves to play rugby and travel!"
+  avatar:   /assets/images/quo-amber.JPG
+  member:   true
+  current:  true
+  email:    amber.quo@ucalgary.ca
