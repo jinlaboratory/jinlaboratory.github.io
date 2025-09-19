@@ -54,6 +54,8 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
 {% if member.member %}
 {% unless member.current %}
 
+## Lab Alumni
+
 ### {{ member.name }}
 
 {% if member.bio %}
