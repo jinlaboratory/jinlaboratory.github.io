@@ -28,7 +28,7 @@ jin-xiaofan:
 
 hwang-ayden:
   name:     Ayden Hwang
-  bio:      High School Research Assistant 
+  bio:      High School Research Assistant (2024-2025), current position: Undergrad - Western University
   fullbio:  "Joining through the 2024 HYRS program, Ayden is a 2025 graduate of William Aberhart High School with an interest in how the spatial organization of microbes in the human gut affect health. Outside the lab, Ayden finds joy in swimming, snowboarding, playing Breath of The Wild, and exploring Alberta’s breathtaking landscapes. He is also an avid cinema-goer and binge-watcher, who you can see regularly visiting movie theaters throughout the city."
   avatar:   /assets/images/ayden_hwang_image_2.jpg
   member:   true
@@ -46,39 +46,30 @@ dickson-davis:
 
 young-makayla:
   name:     Makayla Young
-  bio:      Summer Research Intern
+  bio:      Summer Research Intern (2025), current position: Undergrad - McMaster University
   fullbio:  "Makayla is a Summer Research Intern joining through a BME Summer Studentship at the University of Calgary. She is entering her final year of Biomedical Engineering and Engineering Physics at McMaster University. Her research interests lie in the computation side of biomedical innovation. In her free time, Makayla loves to cook, go hiking, and explore new cities."
   avatar:   /assets/images/young-makayla.jpg
   member:   true
-  current:  true
+  current:  false
   email:    makayla.young@ucalgary.ca
 
 kokame-karna:
   name:     Karna Kokame
-  bio:      Summer Research Student
+  bio:      Summer Research Student (2025), current position: Undergrad - University of Calgary
   fullbio:  "Karna is a summer student joining through the BME Summer Studentship Program. She is entering her second year of Chemical Engineering at the University of Calgary. Her research interests include genetic engineering and the gut microbiome. Outside of academics, she loves practicing karate, baking, and spending time with friends."
   avatar:   /assets/images/kokame-karna.JPG
   member:   true
-  current:  true
+  current:  false
   email:    karna.kokame@ucalgary.ca
   
 zareipour-ava:
   name:     Ava Zareipour
-  bio:      Summer Research Student
+  bio:      Summer Research Student (2025), current position: Undergrad - University of Calgary
   fullbio:  "Ava is a Summer Research Student entering her third year in the Biomedical Engineering Department at the University of Calgary. Her research interests focus on using regenerative medicine and synthetic biology to treat chronic illnesses. Ava is an avid reader in her free time and her favourite genre is epic fantasy-although she likes to read any genre as long as it is fictitious and completely unrealistic." 
   avatar:   /assets/images/zareipour-ava.jpg
   member:   true
-  current:  true
+  current:  false
   email:    ava.zareipour@ucalgary.ca 
-  
-quo-amber:
-  name:     Amber Quo
-  bio:      Biomedical Engineering Research Volunteer
-  fullbio:  "Amber is a 4th year Biomedical Engineering student at the University of Calgary. Her research interests focus on synthetic biology and the development of biosensors for medical applications, with additional enthusiasm for programming and exploring the intersection of science and athletics. In her free time, she loves to play rugby and travel!"
-  avatar:   /assets/images/quo-amber.JPG
-  member:   true
-  current:  true
-  email:    amber.quo@ucalgary.ca
 
 salman-rabia:
   name:     Rabia Salman (Ayla)
@@ -97,3 +88,12 @@ Cleland-Caydin:
   member:   true
   current:  true
   email:    caydin.cleland@ucalgary.ca
+  
+quo-amber:
+  name:     Amber Quo
+  bio:      Biomedical Engineering Research Volunteer
+  fullbio:  "Amber is a 4th year Biomedical Engineering student at the University of Calgary. Her research interests focus on synthetic biology and the development of biosensors for medical applications, with additional enthusiasm for programming and exploring the intersection of science and athletics. In her free time, she loves to play rugby and travel!"
+  avatar:   /assets/images/quo-amber.JPG
+  member:   true
+  current:  true
+  email:    amber.quo@ucalgary.ca
