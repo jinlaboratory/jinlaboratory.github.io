@@ -49,12 +49,13 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
 <!--- # Former members -->
 ## Lab Alumni
 
-### {{ member.name }}
 
 {% for author in site.data.authors %}
 {% assign member = author[1] %}
 {% if member.member %}
 {% unless member.current %}
+
+### {{ member.name }}
 
 {% if member.bio %}
 **{{ member.bio }}** {% if member.start %}({{ member.start}}{% if member.end %}&ndash;{{ member.end }}{% endif %}){% endif %}
