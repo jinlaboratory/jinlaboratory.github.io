@@ -34,3 +34,66 @@ hwang-ayden:
   member:   true
   current:  false
   email:    ayden.hwang@ucalgary.ca
+
+dickson-davis:
+  name:     Davis Dickson
+  bio:      "Graduate student, Biomedical Engineering"
+  fullbio:  "Davis is a Graduate student at the University of Calgary in the Department of Biomedical Engineering. He completed his Bachelor of Science with Honours in Biological Sciences at the University of Calgary where he enjoyed various topics including gut microbiome, synthetic biology, regenerative medicine, and physiology. He conducted his Honour's research project on the effects of a fibre intervention on knee health in rats exposed to a diet-induced obesity model. In his free time, Davis likes staying active, reading, and photography." 
+  avatar:   /assets/images/dickson-davis.jpg
+  member:   true
+  current:  true
+  email:    davis.dickson@ucalgary.ca
+
+young-makayla:
+  name:     Makayla Young
+  bio:      "Summer Research Intern (2025). Current position: Undergrad student at McMaster University"
+  fullbio:  "Makayla is a Summer Research Intern joining through a BME Summer Studentship at the University of Calgary. She is entering her final year of Biomedical Engineering and Engineering Physics at McMaster University. Her research interests lie in the computation side of biomedical innovation. In her free time, Makayla loves to cook, go hiking, and explore new cities."
+  avatar:   /assets/images/young-makayla.jpg
+  member:   true
+  current:  false
+  email:    makayla.young@ucalgary.ca
+
+kokame-karna:
+  name:     Karna Kokame
+  bio:      "Summer Research Intern (2025). Current position: Undergrad student at University of Calgary"
+  fullbio:  "Karna is a summer student joining through the BME Summer Studentship Program. She is entering her second year of Chemical Engineering at the University of Calgary. Her research interests include genetic engineering and the gut microbiome. Outside of academics, she loves practicing karate, baking, and spending time with friends."
+  avatar:   /assets/images/kokame-karna.JPG
+  member:   true
+  current:  false
+  email:    karna.kokame@ucalgary.ca
+  
+zareipour-ava:
+  name:     Ava Zareipour
+  bio:      "Summer Research Intern (2025). Current position: Undergrad student at University of Calgary"
+  fullbio:  "Ava is a Summer Research Student entering her third year in the Biomedical Engineering Department at the University of Calgary. Her research interests focus on using regenerative medicine and synthetic biology to treat chronic illnesses. Ava is an avid reader in her free time and her favourite genre is epic fantasy-although she likes to read any genre as long as it is fictitious and completely unrealistic." 
+  avatar:   /assets/images/zareipour-ava.jpg
+  member:   true
+  current:  false
+  email:    ava.zareipour@ucalgary.ca 
+
+salman-rabia:
+  name:     Rabia Salman (Ayla)
+  bio:      "Graduate Student, Biomedical Engineering"
+  fullbio:  "Ayla is a Graduate Student at the University of Calgary in the Department of Biomedical Engineering. She completed her Bachelor of Science in Biological Sciences at the University of Calgary during which she enjoyed various topics including gut microbiome, regenerative medicine, and pharmacology. Outside the lab, she is passionate about photography and loves to read anything in the genres of surreal fictionalism and academia."
+  avatar:   /assets/images/rabia-salman.jpeg
+  member:   true
+  current:  true
+  email:    rabia.salman@ucalgary.ca
+  
+Cleland-Caydin:
+  name:     Caydin Cleland
+  bio:      "Graduate Student, Biomedical Engineering"
+  fullbio:  "Caydin is a graduate student in the Department of Biomedical Engineering at the University of Calgary. He completed his BSc (Honours) in Biochemistry at the University of Manitoba, where he gained research experience in protein design, and protein biochemistry. He has since continued his research journey in the Jin Lab, with the goal of further developing his passion for synthetic biology and its diverse applications. Outside of academics and research, Caydin enjoys spending time outdoors whether it be hiking, mountain biking, or snowboarding."
+  avatar:   /assets/images/caydincleland_headshot.JPG
+  member:   true
+  current:  true
+  email:    caydin.cleland@ucalgary.ca
+  
+quo-amber:
+  name:     Amber Quo
+  bio:      "Biomedical Engineering Research Volunteer"
+  fullbio:  "Amber is a 4th year Biomedical Engineering student at the University of Calgary. Her research interests focus on synthetic biology and the development of biosensors for medical applications, with additional enthusiasm for programming and exploring the intersection of science and athletics. In her free time, she loves to play rugby and travel!"
+  avatar:   /assets/images/quo-amber.JPG
+  member:   true
+  current:  true
+  email:    amber.quo@ucalgary.ca
