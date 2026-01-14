@@ -97,3 +97,12 @@ quo-amber:
   member:   true
   current:  true
   email:    amber.quo@ucalgary.ca
+
+  Omar Amer:
+  name:     Omar Amer
+  bio:      "Undergraduate Student, Biological Sciences "
+  fullbio:  "Omar is a 3rd year Biological Sciences student at the University of Calgary. His research interests focus on synthetic biology and its real-world applications, particularly in developing practical tools for medical diagnostics and disease-related solutions. Outside of academics, he works in media production, stays active through Basketball, and is involved in community initiatives."
+  avatar:   
+  member:   true
+  current:  true
+  email:    Omar.amer1@ucalgary.ca
